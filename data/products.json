@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Airpods wireless bluetooth headphones",
+    "description": "Bluetooth technology lets you connect with compatible devices wirelessly. High quality AAC audio offers imersive listening experience. Built-in microphone allows you to take calls while working",
+    "price": 89.99
+  },
+  {
+    "id": "2",
+    "name": "iPhone 11 Pro 256GB Memory",
+    "description": "Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecendented leap in battery life. ",
+    "price": 599.99
+  },
+  {
+    "id": "3",
+    "name": "Canon E05 80D DSLR Camera",
+    "description": "Characterized by versatile image specs. The Canon E05 80D further clarifies itself using a pair of robust focusing system and intuitive design",
+    "price": 929.99
+  },
+  {
+    "id": "4",
+    "name": "Sony PlayStation 4  Pro White Version",
+    "description": "The ultimate home entertainment center starts with PlayStation. Whether you're into gaming, movies, television or music. PlayStation is your best resource.",
+    "price": 399.99
+  },
+  {
+    "id": "5",
+    "name": "Logitech G-Series Gaming Mouse",
+    "description": "Get a better handle of your game with this Logitech LIGHTSYNC gaming mouse. The six progammable buttons allow customization for a smooth playing experience.",
+    "price": 49.99
+  },
+  {
+    "id": "3c732566-6d79-499b-9d3e-10367ca4d6a4",
+    "name": "Test Product",
+    "description": "This is my product",
+    "price": 298.99
+  },
+  {
+    "id": "85a46377-d914-4c08-ae77-25beae24cdfe",
+    "name": "A new ptoduct title",
+    "description": "The description of the new product",
+    "price": 300
+  },
+  {
+    "id": "6b103b938-3538-44ac-831a-55e4b9f50bd5",
+    "name": "A NEWER PRODUCT TITLE updated again",
+    "description": "The description of the newer product",
+    "price": 1000
+  },
+  {
+    "id": "77116332-4529-40be-93b9-d55427feaab5",
+    "name": "Rofiat",
+    "description": "API Tutorials",
+    "price": 100000
+  }
+]
